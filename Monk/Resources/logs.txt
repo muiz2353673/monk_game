@@ -1,0 +1,272 @@
+---------------------------------------------------------
+Thth [15 /15] {3}
+th
+
+Monster Room
+Thth hit Goblin for 3hp (17%) [14/17]
+Goblin hit Thth for 5hp (33%) [10/15]
+---------------------------------------------------------
+Thth [15 /15] {3}
+th
+
+Empty Room
+
+Empty Room
+
+Empty Room
+
+Monster Room
+Thth hit Tauren for 3hp (15%) [16/19]
+Tauren hit Thth for 3hp (20%) [12/15]
+Thth missed!
+Tauren hit Thth for 3hp (20%) [9/15]
+---------------------------------------------------------
+Tht [15 /15] {3}
+thh
+
+Empty Room
+
+Monster Room
+---------------------------------------------------------
+Egeg [15 /15] {3}
+rgrg
+
+Empty Room
+
+Empty Room
+
+Monster Room
+Egeg hit Tauren for 3hp (23%) [10/13]
+Tauren hit Egeg for 3hp (20%) [12/15]
+Egeg hit Tauren for 3hp (23%) [7/13]
+Tauren hit Egeg for 3hp (20%) [9/15]
+Egeg missed!
+Tauren missed!
+Egeg hit Tauren for 3hp (23%) [4/13]
+Tauren missed!
+Egeg hit Tauren for 3hp (23%) [1/13]
+Tauren hit Egeg for 3hp (20%) [6/15]
+Egeg hit Tauren for 1hp (7%) [0/13]
+
+Empty Room
+Egeg [15/15]
+
+Monster Room
+---------------------------------------------------------
+Muiz [15 /15] {3}
+Hi
+
+Empty Room
+
+Monster Room
+Muiz hit Blood Elf for 3hp (27%) [8/11]
+Blood Elf hit Muiz for 3hp (20%) [12/15]
+Blood Elf defended [9/11]
+Muiz hit Blood Elf for 3hp (27%) [6/11]
+Blood Elf missed!
+Blood Elf hit Muiz for 3hp (20%) [9/15]
+Blood Elf hit Muiz for 3hp (20%) [6/15]
+Blood Elf hit Muiz for 3hp (20%) [3/15]
+Blood Elf hit Muiz for 3hp (20%) [0/15]
+---------------------------------------------------------
+Muiz [15 /15] {3}
+Hi
+
+Empty Room
+
+Monster Room
+Orc hit Muiz for 2hp (13%) [13/15]
+Muiz hit Orc for 3hp (20%) [12/15]
+Orc defended [13/15]
+Muiz missed!
+Orc hit Muiz for 2hp (13%) [11/15]
+Muiz hit Orc for 3hp (20%) [10/15]
+Orc hit Muiz for 2hp (13%) [9/15]
+Muiz hit Orc for 3hp (20%) [7/15]
+Orc hit Muiz for 2hp (13%) [7/15]
+Muiz missed!
+Orc missed!
+Muiz hit Orc for 3hp (20%) [4/15]
+Orc missed!
+Orc hit Muiz for 2hp (13%) [5/15]
+Orc hit Muiz for 2hp (13%) [3/15]
+Orc hit Muiz for 2hp (13%) [1/15]
+Muiz hit Orc for 3hp (20%) [1/15]
+Orc hit Muiz for 1hp (6%) [0/15]
+---------------------------------------------------------
+Muiz [15 /15] {3}
+Hi
+
+Monster Room
+Muiz hit Troll for 3hp (15%) [16/19]
+Troll hit Muiz for 3hp (20%) [12/15]
+Muiz missed!
+Troll hit Muiz for 3hp (20%) [9/15]
+Muiz missed!
+Troll missed!
+Muiz hit Troll for 3hp (15%) [13/19]
+Troll hit Muiz for 3hp (20%) [6/15]
+Muiz hit Troll for 3hp (15%) [10/19]
+Troll failed to defend
+Muiz hit Troll for 3hp (15%) [7/19]
+Troll hit Muiz for 3hp (20%) [3/15]
+Muiz hit Troll for 3hp (15%) [4/19]
+Troll failed to defend
+Muiz hit Troll for 3hp (15%) [1/19]
+Troll defended [2/19]
+Muiz hit Troll for 2hp (10%) [0/19]
+
+Monster Room
+Muiz hit Tauren for 3hp (25%) [9/12]
+Tauren failed to defend
+Muiz hit Tauren for 3hp (25%) [6/12]
+Tauren missed!
+Muiz hit Tauren for 3hp (25%) [3/12]
+Tauren hit Muiz for 3hp (20%) [0/15]
+---------------------------------------------------------
+Muiz [15 /15] {3}
+Hi
+
+Monster Room
+Muiz missed!
+Pandaren defended [13/13]
+Pandaren hit Muiz for 1hp (6%) [14/15]
+Muiz hit Pandaren for 3hp (23%) [10/13]
+Pandaren hit Muiz for 1hp (6%) [13/15]
+Muiz hit Pandaren for 3hp (23%) [7/13]
+Pandaren hit Muiz for 1hp (6%) [12/15]
+Pandaren hit Muiz for 1hp (6%) [11/15]
+Muiz hit Pandaren for 3hp (23%) [4/13]
+Pandaren hit Muiz for 1hp (6%) [10/15]
+Pandaren missed!
+Muiz missed!
+Pandaren hit Muiz for 1hp (6%) [9/15]
+Pandaren hit Muiz for 1hp (6%) [8/15]
+Muiz hit Pandaren for 3hp (23%) [1/13]
+Pandaren defended [2/13]
+Pandaren hit Muiz for 1hp (6%) [7/15]
+Muiz hit Pandaren for 2hp (15%) [0/13]
+
+Empty Room
+Muiz [15/15]
+
+Treasure Room
+---------------------------------------------------------
+Muiz  [15 /15] {3}
+OOSD ass
+
+Monster Room
+Muiz  hit Goblin for 3hp (14%) [18/21]
+Goblin hit Muiz  for 2hp (13%) [13/15]
+Goblin missed!
+Muiz  hit Goblin for 3hp (14%) [15/21]
+Goblin missed!
+Muiz  hit Goblin for 3hp (14%) [12/21]
+Goblin hit Muiz  for 2hp (13%) [11/15]
+Muiz  hit Goblin for 3hp (14%) [9/21]
+Goblin hit Muiz  for 2hp (13%) [9/15]
+Muiz  hit Goblin for 3hp (14%) [6/21]
+Goblin hit Muiz  for 2hp (13%) [7/15]
+Muiz  hit Goblin for 3hp (14%) [3/21]
+Goblin hit Muiz  for 2hp (13%) [5/15]
+Muiz  hit Goblin for 3hp (14%) [0/21]
+
+Monster Room
+Orc missed!
+Orc missed!
+Muiz  hit Orc for 3hp (37%) [5/8]
+Orc missed!
+Muiz  hit Orc for 3hp (37%) [2/8]
+Orc hit Muiz  for 3hp (20%) [2/15]
+Muiz  hit Orc for 2hp (25%) [0/8]
+
+Monster Room
+Muiz  missed!
+Goblin hit Muiz  for 2hp (13%) [0/15]
+---------------------------------------------------------
+Muiz  [15 /15] {3}
+OOSD ass
+
+Monster Room
+Muiz  missed!
+Pandaren hit Muiz  for 2hp (13%) [13/15]
+Muiz  missed!
+Pandaren hit Muiz  for 2hp (13%) [11/15]
+Pandaren hit Muiz  for 2hp (13%) [9/15]
+Pandaren hit Muiz  for 2hp (13%) [7/15]
+Muiz  hit Pandaren for 3hp (30%) [7/10]
+Pandaren hit Muiz  for 2hp (13%) [5/15]
+Pandaren hit Muiz  for 2hp (13%) [3/15]
+Muiz  hit Pandaren for 3hp (30%) [4/10]
+Pandaren hit Muiz  for 2hp (13%) [1/15]
+Muiz  missed!
+Pandaren hit Muiz  for 1hp (6%) [0/15]
+---------------------------------------------------------
+Muiz  [15 /15] {3}
+OOSD ass
+
+Monster Room
+Blood Elf hit Muiz  for 1hp (6%) [14/15]
+Muiz  missed!
+Blood Elf hit Muiz  for 1hp (6%) [13/15]
+Blood Elf hit Muiz  for 1hp (6%) [12/15]
+Muiz  hit Blood Elf for 3hp (60%) [2/5]
+Blood Elf hit Muiz  for 1hp (6%) [11/15]
+Muiz  hit Blood Elf for 2hp (40%) [0/5]
+
+Monster Room
+Muiz  hit Blood Elf for 2hp (100%) [0/2]
+
+Empty Room
+Muiz  [15/15]
+
+Empty Room
+
+Monster Room
+Muiz  missed!
+Undead hit Muiz  for 3hp (20%) [12/15]
+Undead missed!
+Muiz  missed!
+Undead hit Muiz  for 3hp (20%) [9/15]
+Undead hit Muiz  for 3hp (20%) [6/15]
+Undead hit Muiz  for 3hp (20%) [3/15]
+Muiz  hit Undead for 3hp (17%) [14/17]
+Undead hit Muiz  for 3hp (20%) [0/15]
+---------------------------------------------------------
+Muiz  [15 /15] {3}
+OOSD ass
+
+Empty Room
+
+Monster Room
+Muiz  hit Pandaren for 3hp (15%) [16/19]
+Pandaren hit Muiz  for 3hp (20%) [12/15]
+Pandaren hit Muiz  for 3hp (20%) [9/15]
+Muiz  missed!
+Pandaren missed!
+Muiz  hit Pandaren for 3hp (15%) [13/19]
+Pandaren hit Muiz  for 3hp (20%) [6/15]
+Muiz  hit Pandaren for 3hp (15%) [10/19]
+Pandaren hit Muiz  for 3hp (20%) [3/15]
+Muiz  missed!
+Pandaren hit Muiz  for 3hp (20%) [0/15]
+---------------------------------------------------------
+Muiz  [15 /15] {3}
+OOSD ass
+
+Monster Room
+Muiz  missed!
+Pandaren missed!
+Pandaren hit Muiz  for 3hp (20%) [12/15]
+Muiz  missed!
+Pandaren missed!
+Muiz  hit Pandaren for 3hp (75%) [1/4]
+Pandaren hit Muiz  for 3hp (20%) [9/15]
+Muiz  hit Pandaren for 1hp (25%) [0/4]
+
+Empty Room
+Muiz  [15/15]
+
+Empty Room
+
+Treasure Room

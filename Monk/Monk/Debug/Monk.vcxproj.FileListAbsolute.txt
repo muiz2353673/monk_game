@@ -1,0 +1,4 @@
+C:\Users\u2353673\OneDrive - University of Huddersfield\Desktop\Monk-master\Monk\Monk\Monk\Debug\Monk.vcxproj.AssemblyReference.cache
+C:\Users\u2353673\OneDrive - University of Huddersfield\Desktop\Monk-master\Monk\Monk\Monk\Debug\Monk.MainUI.resources
+C:\Users\u2353673\OneDrive - University of Huddersfield\Desktop\Monk-master\Monk\Monk\Monk\Debug\Monk.SettingsUI.resources
+C:\Users\u2353673\OneDrive - University of Huddersfield\Desktop\Monk-master\Monk\Monk\Monk\Debug\Monk.vcxproj.GenerateResource.cache

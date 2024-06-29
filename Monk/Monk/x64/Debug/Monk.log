@@ -1,0 +1,13 @@
+﻿  Character.cpp
+  EmptyRoom.cpp
+  MainUI.cpp
+  Monster.cpp
+  MonsterRoom.cpp
+  Player.cpp
+  Room.cpp
+  SettingsUI.cpp
+  TreasureRoom.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Character.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Monk.vcxproj -> C:\Users\u2353673\OneDrive - University of Huddersfield\Desktop\Monk\x64\Debug\Monk.exe
